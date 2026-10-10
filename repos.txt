@@ -1,0 +1,10 @@
+# One GitHub repo URL per line
+# Lines starting with # are ignored
+
+#examples but also create programs you should use and have! Shout out to the devs!
+#https://github.com/storytold/artcraft
+#https://github.com/storytold/photocraft
+#https://github.com/storytold/lightcraft
+#https://github.com/storytold/filmcraft
+#https://github.com/storytold/pdfcraft
+#https://github.com/storytold/wordcraft
